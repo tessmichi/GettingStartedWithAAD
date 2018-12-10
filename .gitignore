@@ -276,3 +276,11 @@
 *.pubxml
 */docfx.json
 */log.txt
+
+# bot stuff
+/**/node_modules/
+*.js.map
+/**/package-lock.json
+*/PostDeployScripts/
+*.bot
+*/publish.js
